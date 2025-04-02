@@ -95,6 +95,19 @@ header{
     margin-top: 20px;
 }
 
+form {
+    margin-top: 10px;
+}
+
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+
+
 #bio {
     /* border: thin solid black; */
     height: 350px;
